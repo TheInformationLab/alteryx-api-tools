@@ -1,5 +1,7 @@
 # alteryx-api-tools
 
+##Subscription
+
 List My Workflows
 
 Get Worfklow Questions
@@ -13,6 +15,8 @@ Execute Workflow
 Publish Workflow
 
 Get Job Status
+
+##Admin
 
 List Users
 
