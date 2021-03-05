@@ -6,43 +6,41 @@ The Alteryx API Tools are designed to allow users to interact with the Alteryx G
 
 The macro's in this section require...
 
-List My Workflows
+### List My Workflows
 
-Get Worfklow Questions
+### Get Worfklow Questions
 
-Get Workflow Jobs
+### Get Workflow Jobs
 
-Download Workflow
+### Download Workflow
 
-Execute Workflow
+### Execute Workflow
 
-Gallery Runner
+### Gallery Runner
 
-Publish Workflow
+### Publish Workflow
 
-Get Job Status
+### Get Job Status
 
 ## Admin
 
 The macro's in this section require...
 
-List Users
+### List Users
 
-List Collections
+### List Collections
 
-List Schedules
+### List Schedules
 
-List All Workflows
+### List All Workflows
 
-Search All Workflows
+### Get Latest Job
 
-Get Latest Job
+### List Future Jobs
 
-List Future Jobs
+### List Insights
 
-List Insights
-
-List Subscriptions
+### List Subscriptions
 
 
 
