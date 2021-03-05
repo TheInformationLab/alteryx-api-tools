@@ -1,6 +1,10 @@
 # alteryx-api-tools
 
-##Subscription
+The Alteryx API Tools are designed to allow users to interact with the Alteryx Gallery, via the use of the Alteryx Subscription and Admin APIs, in order to perform tasks that they may otherwise do within the interface. These tools may allow users to automate certain tasks, for example, administrators might want to download all workflows as packaged .zip files so that there contents can be  programmatically reviewed for best practices.
+
+## Subscription
+
+The macro's in this section require...
 
 List My Workflows
 
@@ -12,11 +16,15 @@ Download Workflow
 
 Execute Workflow
 
+Gallery Runner
+
 Publish Workflow
 
 Get Job Status
 
-##Admin
+## Admin
+
+The macro's in this section require...
 
 List Users
 
