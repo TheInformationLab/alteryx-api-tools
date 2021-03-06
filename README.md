@@ -8,15 +8,15 @@ The tools can be downloaded using the single Alteryx installer file (.yxi) store
 
 The macro's in this section require...
 
-### List My Workflows - Backlog
+#### List My Workflows - Backlog
 
 Allows you to get a list of workflows that exist within your private studio
 
-### Get Worfklow Questions - Backlog
+#### Get Worfklow Questions - Backlog
 
 Allows you to fetch the questions that create the interface for a given analytic application
 
-### Get Workflow Jobs - Backlog
+#### Get Workflow Jobs - Backlog
 
 Fetches jobs for a given workflow
 
