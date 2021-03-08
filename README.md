@@ -74,9 +74,9 @@ Get a list of all insights on the Alteryx Server
 
 Retrieve a list of all private studios on the Alteryx Server
 
-#### List Data Connections - In Dev
+#### List Data Connections - Beta
 
-Retrieve a list of all data connections available on the Alteryx Server
+Retrieve a list of all data connections on the Alteryx Server
 
 
 
