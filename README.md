@@ -74,6 +74,10 @@ Get a list of all insights on the Alteryx Server
 
 Retrieve a list of all private studios on the Alteryx Server
 
+#### List Data Connections - Backlog
+
+Retrieve a list of all data connections available on the Alteryx Server
+
 
 
 
