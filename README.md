@@ -42,11 +42,11 @@ Fetches the status of a given job
 
 The macro's in this section require...
 
-#### List Users - Backlog
+#### List Users - Beta
 
 Retrieve a list of all users on the Alteryx Server
 
-#### List Collections - Backlog
+#### List Collections - Beta
 
 Get a list of all collections on the Alteryx Server
 
@@ -54,7 +54,7 @@ Get a list of all collections on the Alteryx Server
 
 Create a list of all schedules on the Alteryx Server
 
-#### List Workflows - Backlog
+#### List Workflows - Beta
 
 Get a list of all workflows on the Alteryx Server
 
