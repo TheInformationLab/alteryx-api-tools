@@ -62,7 +62,7 @@ Get a list of all workflows on the Alteryx Server
 
 Get the latest job for a given workflow or workflows
 
-#### List Future Jobs - Backlog
+#### List Future Jobs - In Dev
 
 Create a forecast of all future jobs that are expected to run
 
@@ -74,7 +74,7 @@ Get a list of all insights on the Alteryx Server
 
 Retrieve a list of all private studios on the Alteryx Server
 
-#### List Data Connections - Backlog
+#### List Data Connections - In Dev
 
 Retrieve a list of all data connections available on the Alteryx Server
 
