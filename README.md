@@ -4,6 +4,8 @@ The Alteryx API Tools are designed to allow users to interact with the Alteryx G
 
 The tools can be downloaded using the single Alteryx installer file (.yxi) stored in this github repository. Tools will be added to their own 'Alteryx API Tools' tool pallette within your Alteryx Designer instance.
 
+All tools have been designed to allow users to specify configuration parameters either dynamically from fields, or via fixed values entered in the configuration window, this means users can easily chain items together should they wish.
+
 ## Subscription
 
 The macro's in this section require...
