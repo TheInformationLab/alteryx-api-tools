@@ -26,6 +26,10 @@ Fetches jobs for a given workflow
 
 Download a workflow from your private studio
 
+#### Unzip and Read Packaged Workflow
+
+From a list of packaged workflow paths, unzip and read the underlying XML into Alteryx
+
 #### Execute Workflow - Beta
 
 #### Gallery Conditional Runner - Backlog
