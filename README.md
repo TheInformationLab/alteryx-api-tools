@@ -14,7 +14,7 @@ The macro's in this section require...
 
 Allows you to get a list of workflows that exist within your private studio
 
-#### Get Worfklow Questions - Backlog
+#### Get Worfklow Questions - Beta
 
 Allows you to fetch the questions that create the interface for a given analytic application
 
