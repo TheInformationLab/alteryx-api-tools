@@ -40,6 +40,10 @@ Provides a method for running multiple workflows in a given order, depending on 
 
 Allows you to publish a .yxzp to your private studio
 
+Known Issues:
+
+The 'Overwrite' functionality that this macro offers does not work, we have a support ticket open with Alteryx to understand where the issue lies.
+
 #### Get Job Status - Backlog
 
 Fetches the status of a given job
