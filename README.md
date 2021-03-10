@@ -22,7 +22,7 @@ Allows you to fetch the questions that create the interface for a given analytic
 
 Fetches jobs for a given workflow
 
-#### Download Workflow - Backlog
+#### Download Workflow - Beta
 
 Download workflows from your private studio
 
