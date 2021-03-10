@@ -26,9 +26,13 @@ Fetches jobs for a given workflow
 
 Download workflows from your private studio
 
-#### Unzip and Read Packaged Workflow - In Dev
+#### Unzip and Read Packaged Workflow - Beta
 
 From a list of packaged workflow paths, unzip and read the underlying XML into Alteryx
+
+Known Issues: 
+
+Even though the macro produces the correct output, it will report the error 'Error: Unzip and Read Packaged Workflow (1): Tool #5: The external program "%TEMP%\extract.bat" returned an error code: 1', this can be ignored.
 
 #### Execute Workflow - In Dev
 
