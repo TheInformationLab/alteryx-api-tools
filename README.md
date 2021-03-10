@@ -24,7 +24,7 @@ Fetches jobs for a given workflow
 
 #### Download Workflow - Backlog
 
-Download a workflow from your private studio
+Download workflows from your private studio
 
 #### Unzip and Read Packaged Workflow
 
