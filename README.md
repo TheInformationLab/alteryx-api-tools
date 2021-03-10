@@ -10,7 +10,7 @@ All tools have been designed to allow users to specify configuration parameters 
 
 The macro's in this section require...
 
-#### List My Workflows - Backlog
+#### List My Workflows - Beta
 
 Allows you to get a list of workflows that exist within your private studio
 
@@ -30,13 +30,13 @@ Download a workflow from your private studio
 
 From a list of packaged workflow paths, unzip and read the underlying XML into Alteryx
 
-#### Execute Workflow - Beta
+#### Execute Workflow - In Dev
 
 #### Gallery Conditional Runner - Backlog
 
 Provides a method for running multiple workflows in a given order, depending on the status (success or fail) of the job.
 
-#### Publish Workflow - Backlog
+#### Publish Workflow - Beta
 
 Allows you to publish a .yxzp to your private studio
 
