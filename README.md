@@ -30,11 +30,13 @@ Download workflows from your private studio
 
 From a list of packaged workflow paths, unzip and read the underlying XML into Alteryx
 
-#### Execute Workflow - In Dev
+#### Execute Workflow - Beta
 
-#### Gallery Conditional Runner - Backlog
+This macro allows users to execute a workflow or application stored on Alteryx Server
 
-Provides a method for running multiple workflows in a given order, depending on the status (success or fail) of the job.
+#### Gallery Conditional Runner - Beta
+
+Provides a method for running multiple workflows in a given order, depending on the status (success or fail) of the previous job.
 
 #### Publish Workflow - Beta
 
@@ -44,9 +46,9 @@ Known Issues:
 
 The 'Overwrite' functionality that this macro offers does not work, we have a support ticket open with Alteryx to understand where the issue lies.
 
-#### Get Job Status - Backlog
+#### Get Job Status - Beta
 
-Fetches the status of a given job
+Fetches the status of a given job on Alteryx Server
 
 ## Admin
 
@@ -87,10 +89,3 @@ Retrieve a list of all private studios on the Alteryx Server
 #### List Data Connections - Beta
 
 Retrieve a list of all data connections on the Alteryx Server
-
-
-
-
-
-
-
