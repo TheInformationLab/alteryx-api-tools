@@ -22,7 +22,7 @@ Allows you to fetch the questions that create the interface for a given analytic
 
 Fetches jobs for a given workflow
 
-#### Download Workflow - Beta
+#### Download my Workflow - Beta
 
 Download workflows from your private studio
 
@@ -89,3 +89,7 @@ Retrieve a list of all private studios on the Alteryx Server
 #### List Data Connections - Testing
 
 Retrieve a list of all data connections on the Alteryx Server
+
+#### Download Workflow - In Dev
+
+Download any workflow on Alteryx Server
