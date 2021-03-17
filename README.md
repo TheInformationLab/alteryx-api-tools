@@ -18,10 +18,6 @@ Allows you to get a list of workflows that exist within your private studio
 
 Allows you to fetch the questions that create the interface for a given analytic application
 
-#### Get Workflow Jobs - Backlog
-
-Fetches jobs for a given workflow
-
 #### Download my Workflow - Beta
 
 Download workflows from your private studio
@@ -90,6 +86,6 @@ Retrieve a list of all private studios on the Alteryx Server
 
 Retrieve a list of all data connections on the Alteryx Server
 
-#### Download Workflow - In Dev
+#### Download Workflow - Testing
 
 Download any workflow on Alteryx Server
