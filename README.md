@@ -38,7 +38,7 @@ Provides a method for running multiple workflows in a given order, depending on 
 
 Retrieves details of all jobs for a given workflow that were triggered via the Alteryx Subscription API
 
-#### Publish Workflow - Testing
+#### Publish Workflow - Beta
 
 Allows you to publish a .yxzp to your private studio
 
