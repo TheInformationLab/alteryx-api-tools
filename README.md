@@ -30,7 +30,7 @@ From a list of packaged workflow paths, unzip and read the underlying XML into A
 
 This macro allows users to execute a workflow or application stored on Alteryx Server
 
-#### Gallery Conditional Runner - Testing
+#### Gallery Conditional Runner - Beta
 
 Provides a method for running multiple workflows in a given order, depending on the status (success or fail) of the previous job.
 
