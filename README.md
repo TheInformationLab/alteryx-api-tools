@@ -10,7 +10,7 @@ All tools have been designed to allow users to specify configuration parameters 
 
 The macro's in this section require...
 
-#### List My Workflows - Testing
+#### List My Workflows - Beta
 
 Allows you to get a list of workflows that exist within your private studio
 
