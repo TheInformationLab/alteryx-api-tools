@@ -22,7 +22,7 @@ Allows you to fetch the questions that create the interface for a given analytic
 
 Download workflows from your private studio
 
-#### Unzip and Read Packaged Workflow - Testing
+#### Unzip and Read Packaged Workflow - Beta
 
 From a list of packaged workflow paths, unzip and read the underlying XML into Alteryx
 
