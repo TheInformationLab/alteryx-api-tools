@@ -90,6 +90,6 @@ Retrieve a list of all private studios on the Alteryx Server
 
 Retrieve a list of all data connections on the Alteryx Server
 
-#### Download Workflow - Testing
+#### Download Workflow - Beta
 
 Download any workflow on Alteryx Server
