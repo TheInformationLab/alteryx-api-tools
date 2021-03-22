@@ -78,7 +78,7 @@ Get the latest job for a given workflow or workflows
 
 Create a forecast of all future jobs that are expected to run
 
-#### List Insights - Testing
+#### List Insights - Beta
 
 Get a list of all insights on the Alteryx Server
 
