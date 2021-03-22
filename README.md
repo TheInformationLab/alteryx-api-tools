@@ -82,7 +82,7 @@ Create a forecast of all future jobs that are expected to run
 
 Get a list of all insights on the Alteryx Server
 
-#### List Subscriptions - Testing
+#### List Subscriptions - Beta
 
 Retrieve a list of all private studios on the Alteryx Server
 
