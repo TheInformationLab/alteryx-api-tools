@@ -66,7 +66,7 @@ Get a list of all collections on the Alteryx Server
 
 Create a list of all schedules on the Alteryx Server
 
-#### List Workflows - Testing
+#### List Workflows - Beta
 
 Get a list of all workflows on the Alteryx Server
 
