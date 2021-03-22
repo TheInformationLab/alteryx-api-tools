@@ -54,7 +54,7 @@ Fetches the status of a given job on Alteryx Server
 
 The macro's in this section require...
 
-#### List Users - Testing
+#### List Users - Beta
 
 Retrieve a list of all users on the Alteryx Server
 
