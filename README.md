@@ -34,7 +34,7 @@ This macro allows users to execute a workflow or application stored on Alteryx S
 
 Provides a method for running multiple workflows in a given order, depending on the status (success or fail) of the previous job.
 
-#### Get Workflow API Jobs - In Dev
+#### Get Workflow API Jobs - Beta
 
 Retrieves details of all jobs for a given workflow that were triggered via the Alteryx Subscription API
 
