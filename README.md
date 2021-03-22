@@ -46,7 +46,7 @@ Known Issues:
 
 The 'Overwrite' functionality that this macro offers does not work, we have a support ticket open with Alteryx to understand where the issue lies.
 
-#### Get Job Status - Testing
+#### Get Job Status - Beta
 
 Fetches the status of a given job on Alteryx Server
 
