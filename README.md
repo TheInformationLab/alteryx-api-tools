@@ -70,7 +70,7 @@ Create a list of all schedules on the Alteryx Server
 
 Get a list of all workflows on the Alteryx Server
 
-#### Get Latest Job - Testing
+#### Get Latest Job - Beta
 
 Get the latest job for a given workflow or workflows
 
