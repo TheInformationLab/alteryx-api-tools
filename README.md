@@ -8,7 +8,7 @@ All tools have been designed to allow users to specify configuration parameters 
 
 ## Subscription
 
-The macro's in this section require...
+The macro's in this section require 'Private Studio' API credentials and allow you to access items that you have published.
 
 #### List My Workflows - Beta
 
@@ -52,7 +52,7 @@ Fetches the status of a given job on Alteryx Server
 
 ## Admin
 
-The macro's in this section require...
+The macro's in this section require Admin API credentials and allow you to access all assets on Alteryx Server, not just your own.
 
 #### List Users - Beta
 
