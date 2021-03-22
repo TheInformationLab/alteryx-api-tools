@@ -58,7 +58,7 @@ The macro's in this section require...
 
 Retrieve a list of all users on the Alteryx Server
 
-#### List Collections - Testing
+#### List Collections - Beta
 
 Get a list of all collections on the Alteryx Server
 
