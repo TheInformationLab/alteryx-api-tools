@@ -62,7 +62,7 @@ Retrieve a list of all users on the Alteryx Server
 
 Get a list of all collections on the Alteryx Server
 
-#### List Schedules - Testing
+#### List Schedules - Beta
 
 Create a list of all schedules on the Alteryx Server
 
