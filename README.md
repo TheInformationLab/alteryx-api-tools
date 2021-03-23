@@ -72,7 +72,7 @@ Get a list of all workflows on the Alteryx Server
 
 #### Get Latest Job - Beta
 
-Get the latest job for a given workflow or workflows
+Get the latest job for all workflows
 
 #### List Future Jobs - In Dev
 
