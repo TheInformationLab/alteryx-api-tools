@@ -44,14 +44,6 @@ Provides a method for running multiple workflows in a given order, depending on 
 
 Retrieves details of all jobs for a given workflow that were triggered via the Alteryx Subscription API
 
-#### Publish Workflow - Beta
-
-Allows you to publish a .yxzp to your private studio
-
-Known Issues:
-
-The 'Overwrite' functionality that this macro offers does not work, we have a support ticket open with Alteryx to understand where the issue lies.
-
 #### Get Job Status - Beta
 
 Fetches the status of a given job on Alteryx Server
@@ -99,3 +91,11 @@ Retrieve a list of all data connections on the Alteryx Server
 #### Download Workflow - Beta
 
 Download any workflow on Alteryx Server
+
+#### Publish Workflow - Beta
+
+Allows you to publish a .yxzp to a given users private studio
+
+Known Issues:
+
+The 'Overwrite' functionality that this macro offers does not work, we have a support ticket open with Alteryx to understand where the issue lies.
