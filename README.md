@@ -6,6 +6,12 @@ The tools can be downloaded using the single Alteryx installer file (.yxi) store
 
 All tools have been designed to allow users to specify configuration parameters either dynamically from fields, or via fixed values entered in the configuration window.
 
+## FAQ
+
+Question: What is the 'Base URL' field
+
+Answer: This is the address for which you use to navigate to your Alteryx Gallery via the web browser, it should look something like... https://mycompany.co.uk/gallery/ the trailing / is required!
+
 ## Subscription
 
 The macro's in this section require 'Private Studio' API credentials and allow you to access items that you have published.
